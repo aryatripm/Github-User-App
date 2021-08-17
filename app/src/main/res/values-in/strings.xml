@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Pengguna Github</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="data_tidak_ditemukan">Data tidak ditemukan</string>
+    <string name="search">Cari</string>
+    <string name="user_picture">Foto User</string>
+    <string name="button_favorite">Button Favorite</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="key_language">bahasa</string>
+    <string name="key_reminder">pengingat</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="reminder">Pengingat</string>
+</resources>
